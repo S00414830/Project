@@ -1,20 +1,45 @@
-### Your Name / Date
+### Karen Barath
 
 ### Executive Summary
 
-Include your executive summary
+Information Technology Help Desk Support careers prn at a college is what this paper will research. I think that a help desk individual should have great communication skills. Communication skill is necessary to have the end user discusses their Information Technology problem, with the help desk support. I think it is   important that help desk individuals: Active listening, means paying close attention to who you’re communicating with by engaging with them, asking questions and rephrasing, communication method, friendliness, confidence, sharing feedback, volume and clarity, empathy, and respect.   The individual will install applications, educate end user, document problem, and escalate issue if needed. Must satisfy customer 
+and promote resolution. Help desk individual should always communicate to end user even if issue not resolved.
 
-### Part Part 1: Project Intent and Plan
-
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
 
 ### Project Part 2:
+IDENTIFY AND CITE RESOURCES
+The three resources used for this paper were the Bureaus of Labor of Statistics, article on Computer Network Specialists and Career builders. Below will be an in depth discussion on information technology help desk support researched from the above resources.
+DISCUSSION OF RESEARCH
+                    Bureau of Labor Statistics states computers will be a growing field, now and in the future. So there   definitely is a need for remote help desk workers. Overall employment of computer support specialists is projected to grow 9 percent from 2020 to 2030, about as fast as the average for all occupations. About 70,400 openings for computer support specialists are projected each year, on average, over the decade. 
+Computer support specialists provide help and advice to computer users and organizations. These specialists either support computer networks or they provide technical assistance directly to computer users.
+               Computer network support specialists typically do the following:
+Test and evaluate existing network systems Perform regular maintenance to ensure that networks operate correctly Troubleshoot local area networks (LANs), wide area networks (WANs), and Internet systems Computer network support specialists, also called technical support specialists, analyze, troubleshoot, and evaluate computer network problems. They play an important role in the routine maintenance of their organization’s networks, such as performing file backups on the network. Maintenance can be performed daily, weekly, or monthly and is important to an organization’s disaster recovery efforts. Solving an information technology (IT) problem promptly is important because organizations depend on their network systems. Network support specialists may assist computer users through phone, email, or in-person visits. They often work under network and computer systems administrators, who handle more complex tasks.
+           Computer user support specialists typically do the following:
+Pay attention to customers’ descriptions of their computer problems
+Ask customers questions to properly diagnose the problem
+Walk customers through the recommended problem-solving steps
+Set up or repair computer equipment and related devices
+Train users to work with new computer hardware or software, such as printers, word-processing software, and email. Provide other team members and managers in the organization with information about what gives customers the most trouble and about other concerns customers have
+Computer user support specialists, also called help-desk technicians, usually provide technical help to non-IT computer users. They respond to phone and email requests for help. They can usually help users remotely, but they also may make site visits so that they can solve a problem in person.
+Help-desk technicians may solve a range of problems that vary with the industry and particular firm. Some technicians work for large software companies or for support service firms and must give instructions to business customers on how to use business-specific programs such as an electronic health records program used in hospitals or physicians’ offices. Sometimes they work with other technicians to resolve problems. Other help-desk technicians work in call centers, answering simpler questions from nonbusiness customers. They may walk customers through basic steps in reestablishing an Internet connection or troubleshooting household IT products such as Wi-Fi routers.
+  	 Indeed .com ask for theses qualifications:   Resolve all inbound/reactive network related issues / escalations from members / providers / internal TPAs, specifically related to physicians / ancillaries within a timely fashion. Set up new providers / contracts / fee schedules, processing provider related changes, addressing provider/member/issues. Educating physicians/office staff on the fact that they are contracted. Verifying whether a physician is in-network, based upon a request from the customer service team. Updating provider systems with new provider demographic information. (e.g. new TINs). Answer physician's general information questions and send physicians information they are seeking (e.g. member ID cards). Respond in a timely manner to physician inquiries regarding contracting requests. Ensure all provider data / contracts are quickly and appropriately  updated in relevant systems. Ensure loading/removing of new /terminated contracts in all relevant systems. Process provider demographic/data updates, terminate providers as directed, store information in relevant systems. Ensure organized storage of all relevant provider documents. Support network manager / network director in all contracting.  I think I can work remote and do end user support, but it would be nice to be paid 25.00 an hour at least.
+    	Careebuilders.com ask for theses qualifications: help desk technician role will be responsible for supporting end users and customers with specific platform and system related issues, escalation of tickets beyond tier 1 level, and supporting the help desk lead with standard reporting and progress metrics as requested. This position supports the core business hours as required by the contract office. Responsibilities As the help desk lead the primary responsibilities include but are not limited: Organization of help desk tickets submitted from end users and customers Tier 1 level triage of incoming tickets as applicable for resolution
+Assignment of incoming tickets to the appropriate system administration and engineering staff for T2/T3 resolution Providing weekly reporting encompassing the current status of the help desk, aged tickets, and timely response rates Supported Technologies: OpenText suite applications focusing on Content Server and OpenText Directory Services
+Remedy ticket tracking system, JIRA internal ticket tracking system, AMPS (Account management provisioning system). Microsoft O365, including Teams for daily communication Qualifications: Required Skills:6+ years IT experience; must include 3+ years of helpdesk experience, preferably remote support, Experience working with DOD Information Systems in a multi-environment, cloud -based system
+Must possess an industry standard information security certification (CompTIA Sec+ or better)
+Industry level platform certification to maintain 8570 compliance for admin system access
+Proficiency in Remedy ticket tracking software, Proficiency in JIRA ticket tracking software,
+Microsoft office suite (Excel, Word, Teams),Must be able to obtain IT-II/IAT-II Clearance
+Desired Skills: Excellent communications skills working in a remote environment,
+Ability to interact well with non-technical end users to resolve issues, Fundamental understanding of system architecture and security constraints, Understanding of SQL and .Net framework is a plus (no coding), Equal Opportunity employer, committed to providing equal employment opportunity to all job seekers. Every qualified applicant receives focused consideration for employment, and no one is discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status. In addition to federal law requirements, applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. Employee needs to be able to sit at a workstation for extended periods; use hand(s) to handle or feel objects, tools, or controls; reach with hands and arms; talk and hear. Most positions require ability to work on desktop or laptop computer for extended periods of time reading, reviewing/analyzing information, and providing recommendations, summaries and/or reports in written format. Must be able to effectively communicate with others verbally and in writing. Employee may be required to occasionally lift and/or move moderate amounts of weight, typically less than 20 pounds. Regular and predictable attendance is essential.
+FUTURE CONSIDERATIONS AND/OR CHALLENGES
+	By researching information technology support specialist topic some future considerations and/or challenges were identified. The future considerations identified were it is important to carefully understand the role of information technology support specialist in companies; some roles vary by company definitions. And the challenge identified was it is important match skill set with job description requests.
 
-If you elected option 1 describe the process you followed to become co-op ready and the name of your career coach OR, for option 2, present your program, application, reach etc.  There is no specific guidelines on the length or development success.  Some students plan on creating an app and find that they only got to determining the full purpose, outcomes and technology which is fine.  The purpose of the project is to take a topic of particular interest to you and spend some more time to gain a deeper level of understanding.
 
-See Blackboard for details
 
 ### Conclusion
+This paper on information technology desktop support specialist summarized the topic and scope of research, cited references, discussed research, and discussed future considerations and/ or challenges. 
+In conclusion I still think desktop support is a great career path for me.
 
-Include your conclusion
+
 
